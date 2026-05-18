@@ -1,3 +1,3 @@
 ## Student Map
 
-[![Student Map Preview](preview.png)](https://your-username.github.io/your-repo-name/student_map.html)
+[![Student Map Preview](preview.png)](https://https://github.com/farzanMgn/LearnAlefbe.git/student_map.html)
